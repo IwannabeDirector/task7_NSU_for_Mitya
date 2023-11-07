@@ -1,0 +1,16 @@
+number,taxa_name,cell_type
+1,homo sapiens,known
+2,mus muskulus,known
+3,homo sapiens,known
+4,mus muskulus,known
+5,homo sapiens,unknown
+6,bos taurus,known
+7,homo sapiens,known
+8,homo sapiens,known
+9,mus muskulus,known
+10,canis lupus familiaris,known
+11,homo sapiens,known
+12,homo sapiens,known
+13,unknown,unknown
+14,bos taurus,known
+15,mus muskulus,known
